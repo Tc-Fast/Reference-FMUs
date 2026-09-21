@@ -4,5 +4,5 @@
     xmlns:fmi-ls="http://fmi-standard.org/fmi-ls-manifest"
     fmi-ls:fmi-ls-name="org.fmi-standard.fmi-ls-ref"
     fmi-ls:fmi-ls-version="1.0.0-alpha.1">
-    <Related type="text/csv" source="BouncingBall_out.csv" role="result" description="Output of the default experiment"/>
+    <Related type="text/csv" source="Roberts_out.csv" role="result" description="Output of the default experiment"/>
 </fmiReferences>
